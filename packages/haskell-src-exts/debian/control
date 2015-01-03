@@ -9,8 +9,10 @@ Package: libghc-haskell-src-exts-dev
 Section: libdevel
 Architecture: any
 Depends: libghc-src-exts-dev (>= 1.14.0.1), libghc-src-exts-dev (<< 1.14.0.2)
+Description: virtual package for libghc-src-exts-dev
 
 Package: libghc-haskell-src-exts-prof
 Section: libdevel
 Architecture: any
 Depends: libghc-src-exts-prof (>= 1.14.0.1), libghc-src-exts-prof (<< 1.14.0.2)
+Description: virtual package for libghc-src-exts-prof
